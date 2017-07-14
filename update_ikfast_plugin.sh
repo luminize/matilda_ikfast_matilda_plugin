@@ -1,0 +1,1 @@
+rosrun moveit_kinematics create_ikfast_moveit_plugin.py matilda manipulator matilda_ikfast_matilda_plugin /home/parallels/catkin_ws/src/matilda_ikfast_matilda_plugin/src/matilda_manipulator_ikfast_solver.cpp
